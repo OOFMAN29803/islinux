@@ -4,7 +4,7 @@ import __main__
 import platform
 
 
-def islinux():
+def inlinux():
     if "Windows" in platform.platform():
         subPF = f"""wsl sh -c "cd /mnt/{Path(__main__.__file__).parent.as_posix()}/ && python3 '{Path(__main__.__file__).name}'" """
         seedP = subPF.replace(":", "")
