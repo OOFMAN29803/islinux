@@ -1,5 +1,5 @@
 # islinux
-Simple way to go around Windows with seamless wsl
+Simple way to use WSL instead of opening like a new command you can run seamlessly (will check if windows or not so you can just use it universially and if it isn't windows it kinda auto converts)
 
 ## Prerequisites
 - WSL (Needed) it will tweak out and get angry because the backbone is WSL.
@@ -13,5 +13,7 @@ from islinux import islinux
 islinux()
 ```
 (Its incredibly complicated, you wouldn't understand...)
+
+
 
 ## Standard MIT License Applies :)
