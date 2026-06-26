@@ -1,4 +1,4 @@
-# islinux
+# inlinux
 Simple way to use WSL instead of opening like a new command you can run seamlessly (will check if windows or not so you can just use it universially and if it isn't windows it kinda auto converts)
 
 ## Prerequisites
