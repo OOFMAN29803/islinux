@@ -12,6 +12,7 @@ Simple way to use WSL instead of opening like a new command you can run seamless
 from islinux import islinux
 islinux()
 ```
+You need to put this at like the super top like line 1 of the file for full emulation or it will get angry and complain you didnt say nothing in windows if it didnt exist there already.
 (Its incredibly complicated, you wouldn't understand...)
 
 
